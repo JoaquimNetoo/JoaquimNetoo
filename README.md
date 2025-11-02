@@ -1,2 +1,3 @@
 ## Hello everyone, I'm Joaquim Neto
-### I work with embedded software development for CubeSats
+### I develop embedded software for CubeSats at Gama CubeDesign.
+
