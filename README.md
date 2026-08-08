@@ -1,3 +1,3 @@
 ## Hello everyone, I'm Joaquim Neto
-### I develop embedded software.
+I study Software Engineering at the University of Brasília (UnB). My areas of interest are artificial intelligence model development and embedded systems.
 
